@@ -1,0 +1,18 @@
+* {
+    border: solid 2px red;
+}
+
+.header {
+    display: flex; 
+    justify-content: center;
+}
+
+.header-links {
+    gap: 40px;
+}
+
+.intro-container, .BusinessName {
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
